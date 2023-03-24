@@ -1,0 +1,13 @@
+body {
+    font-family: arial;
+}
+table,
+td {
+    border: 2px solid #080808
+}
+
+thead,
+tfoot {
+    background-color: #edebeb;
+    color: #0b0b0b;
+}
